@@ -15,8 +15,9 @@ const About: React.FC = () => {
             <div className="rounded-lg overflow-hidden shadow-lg bg-slate-50 transform transition-transform hover:scale-105">
               <div className="p-8">
                 <p className="text-lg text-slate-700 leading-relaxed mb-6">
-                  I'm a passionate DevOps Engineer and Cloud Architect with 2 years of hands-on experience in designing, implementing, and optimizing cloud-based infrastructures.
-                </p>
+                  I'm a passionate Cloud Architect and DevOps Engineer with a strong foundation in Mathematics, having completed my BSc in Mathematics. With 2 years of experience at IRT Technologies Pvt Ltd, I've developed expertise in cloud infrastructure, automation, and DevOps practices.
+
+As an IT trainer, I specialize in delivering comprehensive training programs in RHCSA, RHCE, Ansible, Containers, and Cloud technologies at both institutional and industry levels.
                 <p className="text-lg text-slate-700 leading-relaxed mb-6">
                   My expertise lies in automating development workflows, implementing CI/CD pipelines, and architecting secure and scalable cloud solutions that drive business efficiency and innovation.
                 </p>
